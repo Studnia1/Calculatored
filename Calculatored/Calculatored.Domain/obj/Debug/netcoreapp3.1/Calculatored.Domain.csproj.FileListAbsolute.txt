@@ -1,0 +1,9 @@
+C:\Users\studz\source\repos\Calculatored\Calculatored.Domain\bin\Debug\netcoreapp3.1\Calculatored.Domain.deps.json
+C:\Users\studz\source\repos\Calculatored\Calculatored.Domain\bin\Debug\netcoreapp3.1\Calculatored.Domain.dll
+C:\Users\studz\source\repos\Calculatored\Calculatored.Domain\bin\Debug\netcoreapp3.1\Calculatored.Domain.pdb
+C:\Users\studz\source\repos\Calculatored\Calculatored.Domain\obj\Debug\netcoreapp3.1\Calculatored.Domain.csprojAssemblyReference.cache
+C:\Users\studz\source\repos\Calculatored\Calculatored.Domain\obj\Debug\netcoreapp3.1\Calculatored.Domain.AssemblyInfoInputs.cache
+C:\Users\studz\source\repos\Calculatored\Calculatored.Domain\obj\Debug\netcoreapp3.1\Calculatored.Domain.AssemblyInfo.cs
+C:\Users\studz\source\repos\Calculatored\Calculatored.Domain\obj\Debug\netcoreapp3.1\Calculatored.Domain.csproj.CoreCompileInputs.cache
+C:\Users\studz\source\repos\Calculatored\Calculatored.Domain\obj\Debug\netcoreapp3.1\Calculatored.Domain.dll
+C:\Users\studz\source\repos\Calculatored\Calculatored.Domain\obj\Debug\netcoreapp3.1\Calculatored.Domain.pdb

@@ -1,0 +1,15 @@
+C:\Users\studz\source\repos\Calculatored\Calculatored.EntityFramework\bin\Debug\netcoreapp3.1\Calculatored.EntityFramework.deps.json
+C:\Users\studz\source\repos\Calculatored\Calculatored.EntityFramework\bin\Debug\netcoreapp3.1\Calculatored.EntityFramework.runtimeconfig.json
+C:\Users\studz\source\repos\Calculatored\Calculatored.EntityFramework\bin\Debug\netcoreapp3.1\Calculatored.EntityFramework.runtimeconfig.dev.json
+C:\Users\studz\source\repos\Calculatored\Calculatored.EntityFramework\bin\Debug\netcoreapp3.1\Calculatored.EntityFramework.dll
+C:\Users\studz\source\repos\Calculatored\Calculatored.EntityFramework\bin\Debug\netcoreapp3.1\Calculatored.EntityFramework.pdb
+C:\Users\studz\source\repos\Calculatored\Calculatored.EntityFramework\bin\Debug\netcoreapp3.1\Calculatored.Domain.dll
+C:\Users\studz\source\repos\Calculatored\Calculatored.EntityFramework\bin\Debug\netcoreapp3.1\Calculatored.Domain.pdb
+C:\Users\studz\source\repos\Calculatored\Calculatored.EntityFramework\obj\Debug\netcoreapp3.1\Calculatored.EntityFramework.csprojAssemblyReference.cache
+C:\Users\studz\source\repos\Calculatored\Calculatored.EntityFramework\obj\Debug\netcoreapp3.1\Calculatored.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\studz\source\repos\Calculatored\Calculatored.EntityFramework\obj\Debug\netcoreapp3.1\Calculatored.EntityFramework.AssemblyInfo.cs
+C:\Users\studz\source\repos\Calculatored\Calculatored.EntityFramework\obj\Debug\netcoreapp3.1\Calculatored.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\studz\source\repos\Calculatored\Calculatored.EntityFramework\obj\Debug\netcoreapp3.1\Calculatored.EntityFramework.csproj.CopyComplete
+C:\Users\studz\source\repos\Calculatored\Calculatored.EntityFramework\obj\Debug\netcoreapp3.1\Calculatored.EntityFramework.dll
+C:\Users\studz\source\repos\Calculatored\Calculatored.EntityFramework\obj\Debug\netcoreapp3.1\Calculatored.EntityFramework.pdb
+C:\Users\studz\source\repos\Calculatored\Calculatored.EntityFramework\obj\Debug\netcoreapp3.1\Calculatored.EntityFramework.genruntimeconfig.cache
